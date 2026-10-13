@@ -1,0 +1,41 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+}
+
+body {
+    max-width: 650px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    line-height: 1.4;
+}
+
+img {
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+ul {
+    padding-left: 20px;
+    margin: 10px 0 0 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin-bottom: 4px;
+}
+
+p {
+    margin: 2px 0 0 2px;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
